@@ -25,3 +25,5 @@ Now you can see there are four main components to this project:
     Reinvent the Internet
 
 Those are the core folder/component names of what we will be looking at.
+Izquierdista juan170 
+Derechos Juan.teresajg@gmail.com 
